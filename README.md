@@ -77,7 +77,7 @@ Download Metricify by using the GitHub feature that allows you to dowload the re
  
 **Step 4 - Install Python dependencies:**
 
-Open command prompt and navigate inside the `metricify` application folder. Now run `pip install -r requirements.txt`. You might need to add a `--user` flag if you don't have admin premissions.
+Open command prompt and navigate inside the `metricify` application folder. Now run `python -m pip install -r requirements.txt`. You might need to add a `--user` flag if you don't have admin premissions.
 
 **Step 5 - Running Metricify:**
 
