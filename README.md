@@ -1,8 +1,6 @@
 Metricify (v1.0.1)
 ==================
 
-**NOTE: This project is a work in progress and is not yet functional software!**
-
 Metricify is a command line Python script designed to scan through a PDF file and replace all imperial units with metric ones. 
 
 ![UI Screenshot](https://github.com/Mblizzard/metricify/blob/main/Screenshot.png)
