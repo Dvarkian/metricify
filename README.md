@@ -69,7 +69,7 @@ Just kidding. Mostly. You should probably just go ahead and move on to step 2.
  
 **Step 2 - Install Python**: 
 
-Download and install the latest version of python from [python.org](https://www.python.org/). Make sure you click the optionns to install all the extras as well, especially IDLE and pip.
+Download and install the latest version of python from [python.org](https://www.python.org/). Make sure you click the options to install all the extras as well, especially IDLE and pip.
 
 **Step 3 - Download Metricify**:  
  
