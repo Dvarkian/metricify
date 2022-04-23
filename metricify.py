@@ -1,6 +1,6 @@
 print("Program Started: Metricify.")
 
-print("[Step 1 of 6] Loading ... ", end="")
+print("Loading ... ", end="")
 
 # Import modules
 import pytesseract
@@ -100,7 +100,7 @@ edits = 0 # Counts edits we have made.
 
 print("Done.") # Done loading.
 
-print("[Step 2 of 6] Commencing metrification ...")
+print("Commencing metrification ...")
 
 
 def append_pdf(inp, output): # Adds a page to a pdf.
@@ -353,7 +353,5 @@ try:
     os.remove(loc)
 except:
     pass
-
-#ocrmypdf input.pdf output.pdf
       
 print("Done.")
