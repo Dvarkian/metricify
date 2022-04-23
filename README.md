@@ -53,7 +53,7 @@ At this stage our PDF is just a series of images. To make the text searchable ag
 
 First, create a .bmk bookmarks file using `pdf-bookmark -p input.pdf`, where `input.pdf` is the original pdf file with imperial units (eg. `phb.pdf`).
  
-Now, insert these bookmarks into our new pdf using `pdf-bookmark -p input.pdf -b bookmark.bmk -o output.pdf`, where input.pdf is the metric OCR'ed PDF file produced by the optical content recocognition algorithm (eg. `355phb-metric-ghost-ocr.pdf`), bookmark.bmk is the `.bmk` bookmarks file we have just created, and output.pdf will be the new file with bookmarks (eg. `355phb-metric-ghost-ocr-bmk.pdf`).
+Now, insert these bookmarks into our new pdf using `pdf-bookmark -p input.pdf -b bookmark.bmk -o output.pdf`, where input.pdf is the metric OCR'ed PDF file produced by the optical content recocognition algorithm (eg. `355phb-metric-ghost-ocr.pdf`), bookmark.bmk is the `.bmk` bookmarks file we have just created, and output.pdf will be the new file with bookmarks (eg. `355phb-metric-ghost-ocr-bmk.pdf`). You can now delete the `.bmk` bookmarks file if you want to.
 
 And that's it! Tada! Enjoy your lovely no-longer-imperial PDF file.
  
