@@ -69,7 +69,7 @@ Just kidding. Mostly. You should probably just go ahead and move on to step 2.
  
 **Step 2 - Install Python**: 
 
-Download and install the latest version of python from [python.org](https://www.python.org/). Make sure you click the optionns to install all the extras as well, especially IDLE and pip.
+Download and install the latest version of python from [python.org](https://www.python.org/). Make sure you click the options to install all the extras as well, especially IDLE and pip.
 
 **Step 3 - Download Metricify**:  
  
@@ -81,7 +81,7 @@ Open command prompt and navigate inside the `metricify` application folder. Now 
 
 **Step 5 - Running Metricify:**
 
-Open 'metricify.py` in IDLE and press F5 to execute the program. A window will appear prompting you to select a input file (eg. `phb.pdf`), then Metricify will commence converting the units in your pdf to metric ones. This process will take several hours, I suggest that you leave it running overnight.
+Open `metricify.py` in IDLE and press F5 to execute the program. A window will appear prompting you to select a input file (eg. `phb.pdf`), then Metricify will commence converting the units in your pdf to metric ones. This process will take several hours, I suggest that you leave it running overnight.
 
 As Metricify applies edits to you PDF file, it will produce an output file named <page><input>-metric.pdf, where <page> is the number of pages that the software has processed. You can view this file when the at any point during the process to check that everything is working correctly. You may find that you need to go into the code edit the font of font size depending on the resolution and fonts of your input pdf. Note that the font size for edits must be smaller than that of the original pdf, as the word 'metres' is longer than the word 'feet'.
  
