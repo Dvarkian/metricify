@@ -102,7 +102,7 @@ New capabilities to look forward to in future versions of Metricify:
 Features I'm not currently planning to include in Metricify, but that I'll consider adding if enough people are interested:
 
  - Complete tested Windows support.
- - OCR, bookmark, and compression functions conducted directly by the `metricify.py' script.
+ - OCR, bookmark, and compression functions conducted directly by the `metricify.py` script.
  
 **Versioning:** Releases will follow a [semantic versioning format](http://semver.org/): `<major>.<minor>.<patch>`
 
